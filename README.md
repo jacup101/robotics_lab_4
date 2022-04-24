@@ -1,5 +1,8 @@
 # robotics_lab_4
 Lab 4 for robotics
+
+
+Videos can be found here: https://drive.google.com/drive/folders/14ITToEurXxwKfhdvfDfc_inTOb117mvc?usp=sharing
 # part 1
 Contains a modified world and a model, which we added two wheels to
 
